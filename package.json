@@ -1,7 +1,7 @@
 {
-  "name": "nodex-www",
+  "name": "bixby-www",
   "version": "0.0.0",
-  "description": "TODO: No description specified",
+  "description": "WWW components of the Bixby framework.",
   "keywords": [
     "www"
   ],
