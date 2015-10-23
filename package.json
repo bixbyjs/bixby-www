@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/todo.git"
+    "url": "git://github.com/bixbyjs/bixby-www.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/todo/issues"
+    "url": "http://github.com/bixbyjs/bixby-www/issues"
   },
   "licenses": [
     {
