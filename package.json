@@ -1,7 +1,7 @@
 {
   "name": "bixby-www",
   "version": "0.1.0",
-  "description": "WWW components of the Bixby framework.",
+  "description": "WWW components for Bixby.js.",
   "keywords": [
     "www"
   ],
@@ -24,7 +24,7 @@
       "url": "http://opensource.org/licenses/MIT"
     }
   ],
-  "main": "./lib",
+  "main": "./index.js",
   "dependencies": {
     "request": "^2.61.0"
   },
